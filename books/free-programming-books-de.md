@@ -30,6 +30,7 @@
     * [Django](#django)
 * [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Shell](#shell)
@@ -169,11 +170,6 @@
 * [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
 
 
-### Mathematik
-
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
-
-
 ### Meta-Lists
 
 * [Galileo Computing - openbook](https://www.rheinwerk-verlag.de/openbook)
@@ -232,6 +228,16 @@
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/) (Online)
+
+
+### Rust
+
+* [Die Programmiersprache Rust](https://rust-lang-de.github.io/rustbook-de/) - Steve Klabnik, Carol Nichols, Übersetzung durch die Rust-Gemeinschaft (HTML)
+
+
+### Sage
+
+* [Rechnen mit SageMath](https://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Scilab
